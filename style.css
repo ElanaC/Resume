@@ -1,0 +1,37 @@
+header{
+  font-family:monospace;
+  letter-spacing: 2px;
+}
+
+body{
+  margin:0px;
+
+  border: rgb(183, 177, 233) 3px dotted;
+  border-color: rgb(162, 204, 241) pink rgb(245, 204, 128) rgb(206, 76, 223);
+  margin: 20px 30px;
+  padding: 10px 20px;
+  background-color: rgb(255, 245, 233);
+}
+
+h1{
+  margin:0px;
+  text-transform:uppercase;
+}
+h2{
+  text-transform:lowercase;
+}
+
+.font-blue{
+  color:rgb(156, 241, 214)
+}
+
+#name{
+  margin:20;
+  letter-spacing:4px;
+  text-transform:uppercase;
+  padding:8px;
+}
+
+.small-font{
+  font-size:15px;
+}
